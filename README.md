@@ -19,12 +19,9 @@ A ferramenta auxilia investidores a calcularem seus rendimentos de forma simples
 
 * Excel
 
-* 
+
 ## 🔗 Demonstração
 
 Você pode testar a aplicação funcionando na prática através do link abaixo:
 👉 [Acessar Calculadora de Investimentos]([COLE_O_LINK_AQUI](https://1drv.ms/x/c/69d7201f142a5f1f/IQAY6fVPC9K1Q4lk8IFbepK5AVriP-ni5MpYGqqHZFeEQ9c?e=UeuwqO))
 
-1. Clone este repositório:
-   ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
