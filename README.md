@@ -19,3 +19,6 @@ A ferramenta auxilia investidores a calcularem seus rendimentos de forma simples
 
 * Excel
 
+* ![Projeto - Simulador de Investimentos_page-0001](https://github.com/user-attachments/assets/b4a09e60-ec86-471d-83d1-6542a6a216c4)
+
+
